@@ -7,7 +7,7 @@ from helpers import *
 from download_data import *
 import pandas as pd
 
-openai.api_key = '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'
+openai.api_key = '<>'
 
 sentence_3 = pd.Series("I remember asking you to pick DOT workstream task last week, what's the update on this")
 sentence_4 = pd.Series("Yes, i have started working on the mapping task, will be available early next week, "
